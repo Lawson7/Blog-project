@@ -81,7 +81,7 @@ article, aside, canvas, details, figcaption, figure, footer, header, hgroup, men
 }
 
 html {
-  background: #d3dd8a;
+  background: #3bb4c1;
   -moz-background-size: 80px 80px;
   -webkit-background-size: 80px 80px;
   -o-background-size: 80px 80px;
@@ -93,9 +93,9 @@ html {
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans;
-  background: #fff;
+  background: #e9e4e6;
   margin: 50px auto 30px;
-  color: #2d4159;
+  color: #048998;
   padding: 20px;
   width: 85%;
   min-width: 600px;
