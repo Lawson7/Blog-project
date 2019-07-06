@@ -5,3 +5,7 @@
     <li><%= link_to article.title, article_path(article) %></li>
   <% end %>
 </ul>
+<br><br><br><br>
+<%= link_to "Click to delete tag", tag_path(@tag), method: :delete, data: {confirm: "Really delete the tag?"}%>
+<br><br>
+<%= link_to "<< Back to Tag list", tags_path %>
